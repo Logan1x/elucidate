@@ -1,0 +1,20 @@
+{
+  "name": "@logan1x/elucidate",
+  "version": "1.0.0",
+  "description": "Redefine your reading experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logan1x/elucidate.git"
+  },
+  "keywords": [],
+  "author": "Khushal Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Logan1x/elucidate/issues"
+  },
+  "homepage": "https://github.com/Logan1x/elucidate#readme"
+}
